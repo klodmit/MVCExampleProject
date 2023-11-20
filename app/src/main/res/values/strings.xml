@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PatternsExample</string>
+    <string name="submit">Submit</string>
+    <string name="view_text_button">View Text</string>
+    <string name="text_input">text here something</string>
+</resources>
